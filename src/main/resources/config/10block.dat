@@ -1,0 +1,30 @@
+; 10 Block Puzzle by A. Filipiak
+;
+size  4  5
+step 47
+;
+initial
+AA12
+AA33
+..45
+BB66
+BB78
+;
+hint
+BB..
+BB..
+....
+AA..
+AA..
+;
+target
+BB..
+BB..
+....
+AA..
+AA..
+;
+color A 237 150 46
+color B 17 160 6
+;
+end

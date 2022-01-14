@@ -1,0 +1,28 @@
+; The 9 Puzzle by Serhiy Grabarchuk
+;
+size  4  4
+step 53
+;
+initial
+112.
+1123
+4456
+.789
+;
+target
+987.
+6544
+3211
+.211
+;
+image 0 0 images/9puzz/p1.jpg 2 2
+image 0 2 images/9puzz/p2.jpg 2 1
+image 1 3 images/9puzz/p3.jpg 1 1
+image 2 0 images/9puzz/p4.jpg 1 2
+image 2 2 images/9puzz/p5.jpg 1 1
+image 2 3 images/9puzz/p6.jpg 1 1
+image 3 1 images/9puzz/p7.jpg 1 1
+image 3 2 images/9puzz/p8.jpg 1 1
+image 3 3 images/9puzz/p9.jpg 1 1
+;
+end

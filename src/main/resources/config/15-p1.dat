@@ -1,0 +1,40 @@
+; The 15 Puzzle, Problem 1
+;
+size  4  4
+step 39
+;
+initial
+1234
+5678
+9ABC
+DFE.
+;
+hint
+...x
+....
+....
+....
+;
+target
+48C.
+37BF
+26AE
+159D
+;
+image 0 0 images/gem/p1.jpg 1 1
+image 0 1 images/gem/p2.jpg 1 1
+image 0 2 images/gem/p3.jpg 1 1
+image 0 3 images/gem/p4.jpg 1 1
+image 1 0 images/gem/p5.jpg 1 1
+image 1 1 images/gem/p6.jpg 1 1
+image 1 2 images/gem/p7.jpg 1 1
+image 1 3 images/gem/p8.jpg 1 1
+image 2 0 images/gem/p9.jpg 1 1
+image 2 1 images/gem/p10.jpg 1 1
+image 2 2 images/gem/p11.jpg 1 1
+image 2 3 images/gem/p12.jpg 1 1
+image 3 0 images/gem/p13.jpg 1 1
+image 3 1 images/gem/p15.jpg 1 1
+image 3 2 images/gem/p14.jpg 1 1
+;
+end
